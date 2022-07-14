@@ -76,16 +76,20 @@ textarea {
   font-weight: bolder;
 }
 
-.edit {
+/* .past {
 
-  /* color: rgb(224, 90, 90); */
-  background-color: rgb(171, 225, 171)
+  background-color: rgb(215, 212, 212);
+} */
+
+/* .present {
+
   
-}
-
-.edit1 {
-
-  /* color: rgb(176, 99, 99); */
-  background-color: rgb(171, 225, 171)
+  background-color: rgb(234, 240, 150)
   
-}
+} */
+
+/* .future {
+
+  background-color: rgb(171, 225, 171) ;
+} */
+
